@@ -1,34 +1,12 @@
 # vuetify-boilerplate
 
 ## Project setup
+1. Install project 
 ```
+git clone https://github.com/pirotech/vuetify-boilerplate.git
+cd vuetify-boilerplate
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2. Change environment variable `API` in `.env`
+3. ...
+4. Profit!
